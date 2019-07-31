@@ -1,1 +1,1 @@
-# projeto-de-automa-o-residencial-com-Arduino-permitindo-o-controle-de-rel-s-pela-rede-local-ou-at-
+# projeto de acionamento de reles pelo wifi: este projeto é um projeto de automação residencial com Arduino, permitindo o controle de relés pela rede local ou até mesmo pela internet. Com ele, você pode controlar lâmpadas, eletrodomésticos ou outros equipamentos eletrônicos por meio de uma página web.
