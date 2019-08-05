@@ -5,4 +5,4 @@
 
 
 <p><img src="https://uploads.filipeflop.com/2015/11/automa%C3%A7%C3%A3o-residencial-com-arduino-01.png" alt="material" width="595" height="293" /></p>
-<h4>O controle do m&oacute;dulo rel&eacute; ser&aacute; feito pelas portas digitais 3 e 4 do Arduino, e a alimenta&ccedil;&atilde;o do m&oacute;dulo &eacute; feita pelo pino 5V. No circuito, utilizamos 2 l&acirc;mpadas ligadas &agrave; rede el&eacute;trica de 220V.</h4>
+<h4>O controle do m&oacute;dulo rel&eacute; ser&aacute; feito pelas portas digitais 3 e 4 do Arduino, e a alimenta&ccedil;&atilde;o do m&oacute;dulo &eacute; feita pelo pino 5V. No circuito s&atilde;o utilizadas 2 l&acirc;mpadas ligadas &agrave; rede el&eacute;trica de 220V.</h4>
